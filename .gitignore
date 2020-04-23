@@ -1,0 +1,12 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Idea
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Genereated
+.flattened-pom.xml
